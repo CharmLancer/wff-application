@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>com.wff.application</finalName>
+    <finalName>wff-application</finalName>
   </build>
 </project>
